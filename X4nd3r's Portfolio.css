@@ -1,0 +1,67 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+header{
+    text-align: start;
+    background-color: rgb(147, 221, 229);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+a:hover{
+    text-decoration: none;
+    color: rgb(100, 100, 230);
+}
+
+a:visited{
+    text-decoration: none;
+    color: blueviolet
+}
+
+.button1{
+    border-style: ridge;
+    font-size: larger;
+    background-color: rgb(220, 223, 244);
+    color: black;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+ul{
+    list-style: none;
+}
+
+img{
+    border-radius: 70px;
+    border-style: ridge;
+    border-color: black;
+}
+
+button{
+    border-style: ridge;
+    font-size: larger;
+    background-color: rgb(220, 223, 244);
+    color: black;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+button:hover{
+    background-color: rgb(78, 78, 108);
+}
+
+footer{
+    background-color: white;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    padding: 10px;
+}
